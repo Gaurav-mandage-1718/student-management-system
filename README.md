@@ -86,10 +86,10 @@ The main purpose of this project is to learn and implement:
 
 
 ### Add Student Page
-![Add Student](screenshots/add-student.png)
+![Add Student](screenshots/add-student.png.png)
 
 ### Update & delete Students Page
-![View Students](screenshots/view-students.png)
+![View Students](screenshots/view-students.png.png)
 
 
 
