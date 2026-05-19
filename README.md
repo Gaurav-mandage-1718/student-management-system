@@ -82,6 +82,20 @@ The main purpose of this project is to learn and implement:
 - CRUD Operations
 - Database Connectivity
 
+- ## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Student Page
+![Add Student](screenshots/add-student.png)
+
+### View Students Page
+![View Students](screenshots/view-students.png)
+
+### Update Student Page
+![Update Student](screenshots/update-student.png)
+
 ## 👨‍💻 Author
 
 Gaurav Mandage
